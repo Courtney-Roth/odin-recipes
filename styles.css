@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(45, 21, 68);
+    color: aliceblue;
+    text-align: center;
+}
+
+a {
+    color: aliceblue;
+}
+
+li {
+    text-align: left;
+}
